@@ -21,6 +21,8 @@ const Display = () => {
     }
   })
 
+
+  
   return (
   <div
     ref={displayRef}
